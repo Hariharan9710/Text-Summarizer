@@ -6,7 +6,9 @@ Used CNN_DailyMail dataset.
 IMAGE ALT TEXT HERE
 ### Training Model Overview
 loss graph
+
 ![train_log](https://user-images.githubusercontent.com/115065702/194541908-30cb640c-4c61-45c8-ae15-204cf28fd06c.jpg)
+
 encoder-decoder overview
 ![model_plot](https://user-images.githubusercontent.com/115065702/194541983-48da00c8-30c6-45c7-b963-c7bc1600fd39.jpg)
 #### Conclusion
