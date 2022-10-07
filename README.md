@@ -17,3 +17,5 @@ encoder-decoder overview
 🫶 Created a Flask app using an api call from my hugging face repository & deployed the app in heroku app.
 ##### Deployment:
 ![SS1](https://user-images.githubusercontent.com/115065702/194542220-8982a381-1e41-42df-bdb2-7956635fcd16.jpg)
+
+🫶 https://text-summariser-v1.herokuapp.com/
